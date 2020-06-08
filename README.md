@@ -2,7 +2,7 @@
 
 This is a curated list of community projects that are partially hosted and co-maintained by Camunda or members of the Camunda Community.
 
-* https://github.com/camunda/camunda-bpm-custom-batch
+* https://github.com/camunda/camunda-bpm-custom-batch ![GitHub Workflow Status](https://img.shields.io/github/workflow/status/camunda/camunda-bpm-graphql/Build%20project%20with%20Maven?style=flat-square)
 * https://github.com/camunda/camunda-bpm-graphql
 * https://github.com/camunda/camunda-bpm-identity-keycloak
 * https://github.com/camunda/camunda-bpm-jbehave
